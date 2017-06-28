@@ -307,7 +307,6 @@ function save_data(filename, data)
 
 end
 
-
 -- Call and postpone execution for cron plugins
 function cron_plugins()
 
